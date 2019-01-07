@@ -13,4 +13,5 @@
 4. 2019.07
 
 ## III. 프로젝트 개요
-asdfg
+asdfg 
+따흐흑 git push push
